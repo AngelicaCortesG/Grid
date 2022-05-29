@@ -46,8 +46,6 @@ main div {
 }
 .item1{
     flex-grow: 4;
-    /* height: 50%;
-    width: 50%; */
 }
 .item2 {
     flex-grow: 1;
